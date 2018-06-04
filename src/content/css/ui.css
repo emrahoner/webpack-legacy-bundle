@@ -1,0 +1,8 @@
+.ui-button {
+    border: 1px solid red;
+    flex: 1;
+}
+
+.ui-button-container {
+    display: flex;
+}

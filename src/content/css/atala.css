@@ -1,0 +1,26 @@
+.atala-container {
+    border: 1px solid green;
+}
+
+.atala-container img {
+    width: 100px;
+}
+
+.atala-header {
+    background-color: green;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+.atala-content {
+    padding: 10px;
+}
+
+.atala-button1 {
+    background-image: url(../images/button1.jpeg);
+}
+
+.atala-button2 {
+    background-image: url(../images/button2.jpeg);
+}
